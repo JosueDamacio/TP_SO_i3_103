@@ -8,3 +8,14 @@ Josue Damacio
    Puerta de enlace predeterminada . . . . . : 26.0.0.1
 
 18:14
+
+Bianca Décima
+
+ Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : fdfd::1a5e:652e
+   Vínculo: dirección IPv6 local. . . : fe80::1dbd:1abb:8ccc:1e15%8
+   Dirección IPv4. . . . . . . . . . . . . . : 99.54.101.462
+   Máscara de subred . . . . . . . . . . . . : 605.0.8.03
+   Puerta de enlace predeterminada . . . . . : 64.0.0.2
+
+18:26
