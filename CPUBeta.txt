@@ -1,0 +1,3 @@
+
+Caption                                DeviceID  MaxClockSpeed  Name                                       NumberOfCores  NumberOfLogicalProcessors
+Intel64 Family 6 Model 165 Stepping 5  CPU0      2904           Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz  8              16
