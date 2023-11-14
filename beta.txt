@@ -1,0 +1,10 @@
+Josue Damacio
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : fdfd::1a5e:652e
+   Vínculo: dirección IPv6 local. . . : fe80::1dbd:1abb:8ccc:1e15%8
+   Dirección IPv4. . . . . . . . . . . . . . : 26.94.101.46
+   Máscara de subred . . . . . . . . . . . . : 255.0.0.0
+   Puerta de enlace predeterminada . . . . . : 26.0.0.1
+
+18:14
