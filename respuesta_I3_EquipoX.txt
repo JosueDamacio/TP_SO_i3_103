@@ -14,6 +14,22 @@ git merge decima (hago un marge de la rama de Gamma)
 git commit -m "" (commiteo, pero no se si será visible)
 git push (hago un push para que se establezcan los cambios)
 
+d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+La rama creada por beta si, ya que fue ahi donde se crearon los ultimos cambios. La rama creada por Gamma no porque le faltaría el archivo beta.tx
+
+e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+Para hacer el merge tuvimos que posicionarnos en la rama master (main) y hacer el merge desde ahi
+git checkout main
+git merge Damacio
+git commit -m "fucion Damacio en master"
+git push
+
+f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+$ git checkout Damacio
+$ git add .
+$ git commit -m "gamma modif beta.txt"
+$ git push
+
 G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
 
 git pull -> para actualizar y traer la rama creada por beta, con el archivo creado y el cambio que realizó gama sobre este archivo
