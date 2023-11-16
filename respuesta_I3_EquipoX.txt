@@ -1,0 +1,10 @@
+
+
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+
+git pull -> para actualizar y traer la rama creada por beta, con el archivo creado y el cambio que realizó gama sobre este archivo
+git checkout Damacio -> para cambiar a la rama corresponiende
+**agregar al archivo la info que da ipconfig
+git add .
+git commit -m "
+ALFA: agrego info a beta.txt"
