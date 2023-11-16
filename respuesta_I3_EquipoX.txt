@@ -1,4 +1,18 @@
+A-¿Como queda El master después de estos cambios? 
+despues de estos cambios la rama master queda con todos los archivos creados en las diferentes
+ramas, ya que en el punto 5 se mergeo con la rama creada por Gamma y en el punto 8 con la rama
+creada por Beta
 
+B-¿Beta pudo ver todos los cambios que se realizaron?
+Si no hace un git pull, no podría ni ver los cambios realizados por alfa en el archivo beta.txt,
+ni ver como queda la rama main despues del merge, pero fianlmente todas las modificaciones fueron
+visibles y agregadas a la rama principal
+
+C-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge?
+git checkout main (me posiciono en la rama master)
+git merge decima (hago un marge de la rama de Gamma)
+git commit -m "" (commiteo, pero no se si será visible)
+git push (hago un push para que se establezcan los cambios)
 
 G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
 
